@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+    background-color: #4276ED;
+}
+
+div#container-principal{
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+
+div#container-principal h1{
+    padding: 10px;
+
+}
+
+div#container-principal p{
+    text-align: center;
+    padding: 10px;
+}
+
+div#listas1{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+div#listas1 ul {
+    padding-bottom: 5px;
+}
